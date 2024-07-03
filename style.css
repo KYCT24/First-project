@@ -51,8 +51,6 @@ body{
     margin-bottom: 15px;
 }
 
-
-
 .compound-list{
     margin-bottom: 25px; 
 }
@@ -67,97 +65,3 @@ body{
     font-size: 20px; 
     line-height: 24px;
 }
-
-
-
-
-
-
-/*
-
-.compound-name{
-
-}
-
-
-
-.button{
-    background-color: aqua;
-    color: white;
-    border: 1px solid black;
-    border-radius: 5px;
-    padding: 10px 20px;
-    font-size: 20px;
-}
-
-.button-green{
-    background-color: green;
-}
-
-.product-description{
-    font-size: 13px;
-    line-height: 18px;
-}
-
-
-.main-text{
-    color: #515076;
-}
-
-.main-text-description{
-    
-}
-
-
-
-* {
-    
-}
-
-li{ 
-    color: green;
-}
-
-
-
-.tag {
-    color: red;
-}
-
-
-#title {
-    color: aqua;
-} 
-
-
-ul li.card {
-    color: red;
-}
-
-li span{
-    color: green;
-}
-    
-span{
-    font-size: 50px;
-}
-
-.black-text {
-    background-color: white;
-    color: black;
-}
-
-.white-text {
-    font-size: 24px;
-    font-weight: bold;
-    background-color: black;
-    color: white;
-}
-
-.card .white-text{
-    font-size: 20px;
-}
-
-
-
-*/
