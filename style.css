@@ -1,0 +1,163 @@
+body{
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+}
+
+.title{
+    font-size: 70px;
+    line-height: 78px;
+    margin: 0;
+    text-align: center;
+    color: #515076;
+}
+
+.products-list{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    color: #515076;
+}
+
+.products-card{
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    background-color: #F7F7FA;
+}
+
+.product-image{
+    display: block;
+    margin-bottom: 30px;
+}
+
+.product-hud{
+    font-size: 12px;
+    line-height: 24px;
+    color: #A5A3B9;
+}
+
+.product-name{
+    font-size: 20px; 
+    line-height: 27px;
+    font-weight: 700;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.product-description{
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+
+
+.compound-list{
+    margin-bottom: 25px; 
+}
+
+.product-price{
+    font-size: 20px; 
+    line-height: 24px;
+    font-weight: 700;
+}
+
+.product-price-number{
+    font-size: 20px; 
+    line-height: 24px;
+}
+
+
+
+
+
+
+/*
+
+.compound-name{
+
+}
+
+
+
+.button{
+    background-color: aqua;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+
+.button-green{
+    background-color: green;
+}
+
+.product-description{
+    font-size: 13px;
+    line-height: 18px;
+}
+
+
+.main-text{
+    color: #515076;
+}
+
+.main-text-description{
+    
+}
+
+
+
+* {
+    
+}
+
+li{ 
+    color: green;
+}
+
+
+
+.tag {
+    color: red;
+}
+
+
+#title {
+    color: aqua;
+} 
+
+
+ul li.card {
+    color: red;
+}
+
+li span{
+    color: green;
+}
+    
+span{
+    font-size: 50px;
+}
+
+.black-text {
+    background-color: white;
+    color: black;
+}
+
+.white-text {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+}
+
+.card .white-text{
+    font-size: 20px;
+}
+
+
+
+*/
